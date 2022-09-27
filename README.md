@@ -15,7 +15,7 @@
  <img align="center" alt="Diego-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="center" alt="Diego-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 
-  <img align="right" alt="my pic" height="150" style="border-radius:50px;" src="profile.jpeg">
+  <img align="right" alt="my pic" height="150" style="border-radius:50px;" src="diegoProfile.jpg">
 </div>
 
 ##
